@@ -1,0 +1,8 @@
+C:\Users\Masha\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Masha\source\repos\Lab3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Masha\source\repos\Lab3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Masha\source\repos\Lab3\Lab3\obj\Debug\ExtensionsDemo.csproj.AssemblyReference.cache
+C:\Users\Masha\source\repos\Lab3\Lab3\obj\Debug\ExtensionsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Masha\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Masha\source\repos\Lab3\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Masha\source\repos\Lab3\Lab3\obj\Debug\Lab3.exe.config
